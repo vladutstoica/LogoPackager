@@ -73,3 +73,4 @@ FOR DETAILED STEPS PLEASE FOLLOW THE GUIDE BELOW:arrow_down::arrow_down::arrow_d
 
 ### TODO:
 - make UI
+- make name convention for artboards: BRANDNAME_ARTBOARD & BRANDNAME_ARTBOARD_EDITABLE
